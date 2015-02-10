@@ -8,7 +8,7 @@ LOCAL_SRC_FILES:= \
 LOCAL_SHARED_LIBRARIES := \
     libc libcutils libutils
 
-LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_TAGS := eng
 
 # Build shared library
 LOCAL_SHARED_LIBRARIES += \
